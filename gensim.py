@@ -42,6 +42,3 @@ if name == "main":
     
     print("\nLemmatized Tokens:")
     print(lemmatized_tokens)
-
-
-gensim de
